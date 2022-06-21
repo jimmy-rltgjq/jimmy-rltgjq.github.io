@@ -1,0 +1,46 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about me
+    entries:
+      - title: "<a href='https://www.linkedin.com/in/jimmy-kim-234b79161/'>링크드인(LinkedIn)</a>"
+      - title: "<a href='https://instagram.com/gim.gee.meen.zz/'>인스타그램(Instagram)</a>"
+      - title: jimmy.work.kr@gmail.com
+      - title: 대한민국, 서울 거주 - in Korea, Seoul
+  - title: experience
+    entries:
+      - title: TESSA - Backend Developer (2020.12 - Present)
+        entries:
+          - title: MSA 기반의 서버 구성 및 운영 관리
+          - title: TESSA 앱에서 사용하는 API 설계 및 개발
+          - title: AWS 클라우드 기반의 서버 인프라 설계 및 구축
+      - title: DTONIC - Data Enginner (2017.03 - 2020.11)
+        entries:
+          - title: 데이터 처리 ETL 구축
+          - title: 하둡 에코시스템 기반의 빅데이터 시스템 구축
+          - title: 빅데이터 시스템 데이터 조회를 위한 REST API 개발
+  - title: 記錄
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: post
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+  
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  
+  - title: rss
+    url: feed.xml
