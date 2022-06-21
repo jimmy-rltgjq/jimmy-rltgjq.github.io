@@ -1,7 +1,7 @@
 title: Jimmy Kim # name of the site
 author: kim jimin # name of site's author
 email: jimmy.work.kr@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
+url: https://jimmy-rltgjq.github.io # root address of the site
 baseurl: "/klog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Work Software Engineer
